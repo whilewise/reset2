@@ -1,0 +1,138 @@
+{
+  "sys_board": {
+    "type": "system",
+    "status": "in-progress",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": "src/logic/Board.ts",
+    "tests": "src/tests/Board.test.ts"
+  },
+  "sys_game": {
+    "type": "system",
+    "status": "in-progress",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": "src/logic/GameManager.ts",
+    "tests": "src/tests/GameManager.test.ts"
+  },
+  "sys_timer": {
+    "type": "system",
+    "status": "in-progress",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": "src/logic/Timer.ts",
+    "tests": "src/tests/Timer.test.ts"
+  },
+  "sys_score": {
+    "type": "system",
+    "status": "in-progress",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": "src/logic/ScoreSystem.ts",
+    "tests": "src/tests/ScoreSystem.test.ts"
+  },
+  "ui_board": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "ui_cell": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "ui_hud_timer": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "ui_hud_minecount": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "ui_btn_restart": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "ui_btn_difficulty": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "ui_modal_result": {
+    "type": "ui",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "sfx_click": {
+    "type": "sfx",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "sfx_flag": {
+    "type": "sfx",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "sfx_explosion": {
+    "type": "sfx",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "sfx_win": {
+    "type": "sfx",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "fx_explosion": {
+    "type": "fx",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  },
+  "fx_flag": {
+    "type": "fx",
+    "status": "planned",
+    "plan": "docs/기획서/지뢰찾기_게임규칙명세서.md",
+    "assets": [],
+    "code": null,
+    "tests": null
+  }
+}
